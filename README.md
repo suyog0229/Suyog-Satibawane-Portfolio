@@ -12,7 +12,5 @@ A quantitative research project leveraging ensemble methods to estimate gold pri
 4. Netflix Equity Analysis & Trend Forecasting:-
    A financial modeling repository focused on forecasting Netflix stock movements through multivariate regression. The project emphasizes the relationship between historical price action, trading volume, and adjusted closing prices.
 
-5. Python Algorithmic Logic & Computational Foundations:-
-   A technical repository dedicated to mastering core Pythonic idioms and algorithmic efficiency. It features optimized implementations of fundamental computational logic and mathematical problem-solving.
 
 
